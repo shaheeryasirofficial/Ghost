@@ -1,11 +1,7 @@
-# Ghost
-
-
 # GHOST - Advanced Python-Based Port Scanner  
 
 **Version:** 1.0  
-**Author:** [Your Name]  
-**License:** [Your Preferred License]  
+**Author:** Shaheer Yasir  
 **Platform:** Windows (Executable: `ghost.exe`)  
 
 ## 🛠️ Overview  
@@ -25,7 +21,7 @@
 
 ## 🏗️ Installation  
 
-1. Download the latest release of `ghost.exe` from the [GitHub repository](https://github.com/your-repo/ghost).  
+1. Download the latest release of `ghost.exe` from the [GitHub repository](https://github.com/shaheeryasirofficial/Ghost).  
 2. Open a command prompt and navigate to the directory where `ghost.exe` is stored.  
 
 ## ⚡ Usage  
